@@ -1,0 +1,66 @@
+@media screen and (min-width: 1200px) {
+  .Iconos {
+    font-size: 4rem;
+    right: 80px;
+  }
+
+  .Face {
+    margin-right: 100px;
+  }
+
+  #Uno {
+    margin-top: 80px;
+  }
+
+  #Dos {
+    margin-top: 1.5%;
+    margin-bottom: 5%;
+  }
+
+  h2 {
+    font-size: 3rem;
+  }
+
+  #Tres {
+    width: 50%;
+    font-size: 2.5rem;
+    margin: 0% auto;
+  }
+
+  #Correo {
+    width: 25%;
+    font-size: 1.3rem;
+  }
+
+  #Check {
+    font-size: 1.3rem;
+    margin-top: 8%;
+  }
+
+  .boton {
+    font-size: 1.3rem;
+    margin-top: 10%;
+  }
+
+  input[type="submit"] {
+    width: 15%;
+  }
+
+  #Filete {
+    height: 700px;
+    left: -10%;
+    bottom: -10%;
+    background-size: 110%;
+  }
+
+  #Pozole {
+    height: 700px;
+    right: -10%;
+    bottom: -10%;
+    background-size: 100%;
+  }
+
+  figure {
+    font-size: 1.2rem;
+  }
+}
